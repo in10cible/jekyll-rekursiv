@@ -1,3 +1,3 @@
-# jekyll-base
+# jekyll-rekursiv
 
-Fresh Jekyll install from running "jekyll new ..."
+Testing Jekyll + Netlify website : rekursiv.fr
